@@ -1,0 +1,36 @@
+# Python sanal ortam
+venv/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode ayarları
+.vscode/
+
+# IDE ayarları
+.idea/
+*.swp
+
+# Log dosyaları
+*.log
+
+# Geçici dosyalar
+*.tmp
+*.bak
+*.backup
+*.swp
+*.swo
+
+# MacOS dosyaları
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test sonuçları
+coverage/
+.tox/
+.nox/
